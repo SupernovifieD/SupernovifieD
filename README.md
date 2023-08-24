@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Yasin. You can call me Yas (he, his, him).
+# 👋 Hi, I’m Yasin. You can call me Yas.
 
 - 👀 I’m interested in learning in general. But currently, I'm interested in answering questions related to big data and how it could be analyzed, and also deep boring questions about life and meaning.
 - 🌱 I’m currently learning how to code, especially with `python` and `django`. I've been introduced to programming quite recently, so I'm busy building a solid mindset in this field currently.
