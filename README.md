@@ -1,10 +1,20 @@
-# 👋 Hi, I’m Yasin.
+# Hi, I’m Yasin 👋
 
-- 👀 I’m interested in learning in general. But currently, I'm interested in answering questions related to big data and how it could be analyzed, and also deep boring questions about life and meaning.
-- 🌱 I’m currently learning how to code, especially with `python` and `django`. I've been introduced to programming quite recently, so I'm busy building a solid mindset in this field currently.
-- 💞️ I’m looking to collaborate on data analysis methods in the realm of geosciences.
-- :runner: I'm an avid [runner](https://www.strava.com/athletes/39015842). Let me know if we could go for a fun run and enjoy a good friendly talk!
-- 📫 Drop me a line at me@yasinghasemi.com. I'd be more than happy to hear from you.
+📍 Tehran, Iran | A dedicated engineer — in other words a learner 📚, a builder 🛠️, and a creator ✨.
+
+## Current Projects
+
+Projects I'm currently working on, interested in, or maintaining.
+
+- 📡 **[Net Radar](https://github.com/SupernovifieD/netradar)**: An open source web diagnostics monitoring dashboard Flask app with a Next.js GUI. See it in action at [netradar.ir](netradar.ir).
+
+## Legacy Work
+
+I'm not working on the following projects anymore, but I'd be happy to breathe new life into them. Let me know if you have any idea for any of them.
+
+- 🕸️ **[Web Scraping Tool](https://github.com/SupernovifieD/Web-Scraping-Tool)**: Just some material to test how web scraping actually works.
+- ⛏️ **[MinexPy](https://pypi.org/project/MinexPy/)**: My master's thesis turned into a Python package. A Flask GUI is also available at 🖥️ **[MinexPy GUI](https://github.com/SupernovifieD/MinexPy-GUI)**.
+- 🎙️ **[FreeTextToSpeech](https://github.com/SupernovifieD/FreeSpeechToText)**: A Python program that extracts text from audio files — .mp3 or .wav — for free!
 
 <!---
 SupernovifieD/SupernovifieD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
