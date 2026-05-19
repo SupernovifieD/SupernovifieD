@@ -6,7 +6,10 @@
 
 Projects I'm currently working on, interested in, or maintaining.
 
-- 📡 **[Net Radar](https://github.com/SupernovifieD/netradar)**: An open source web diagnostics monitoring dashboard Flask app with a Next.js GUI. See it in action at [netradar.ir](https://netradar.ir).
+- 🧭 **[Situational Git Cheat Sheet](https://supernovified.github.io/situational-git-cheat-sheet/#ai-safety)**: A situation-first Git cheat sheet for humans in the age of AI.
+- ⛏️ **[MPM MVP](https://github.com/SupernovifieD/mineral-prospectivity-mvp)**: An MVP for mineral prospectivity mapping using machine learning.
+- 📡 **[Net Radar](https://github.com/SupernovifieD/netradar)**: A lightweight, free and open-source web diagnostics monitoring dashboard.
+- 🎓 **[BluLexi](https://blulexi.com)**: AI-assisted academic English test prep.
 
 ## Legacy Work
 
