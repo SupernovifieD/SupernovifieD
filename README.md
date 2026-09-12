@@ -6,7 +6,7 @@
 
 Projects I'm currently working on, interested in, or maintaining.
 
-- 🌍 **[EarthCatalogue](https://ec.yasinghasemi.com)**: A curated public directory for discovering geoscience datasets.
+- 🌍 **[EarthCatalogue](https://ec.yasinghasemi.com)**: A curated public directory for discovering geoscience datasets, with read-only MCP access to the catalogue.
 - 🧩 **[Naar](https://github.com/SupernovifieD/naar)**: A repo-aware CLI for discovering, evaluating, and safely installing AI agent skills.
 - ⛏️ **[MPM MVP](https://github.com/SupernovifieD/mineral-prospectivity-mvp)**: An MVP for mineral prospectivity mapping using machine learning.
 - 📡 **[Net Radar](https://github.com/SupernovifieD/netradar)**: A lightweight, free and open-source web diagnostics monitoring dashboard.
