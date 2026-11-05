@@ -1,6 +1,6 @@
 # Hi, I’m Yasin 👋
 
-📍 Tehran, Iran | A dedicated engineer — in other words a learner 📚, a builder 🛠️, and a creator ✨.
+A dedicated engineer — in other words a learner 📚, a builder 🛠️, and a creator ✨.
 
 ## Current Projects
 
