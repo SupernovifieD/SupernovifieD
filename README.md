@@ -6,10 +6,10 @@ A dedicated engineer — in other words a learner 📚, a builder 🛠️, and a
 
 Projects I'm currently working on, interested in, or maintaining.
 
-- 🌍 **[EarthCatalogue](https://ec.yasinghasemi.com)**: A curated public directory for discovering geoscience datasets, with read-only MCP access.
-- 🗺️ **[Karmania](https://github.com/SupernovifieD/karmania-map-viewer)**: An open-source engine for importing and validating geoscience map data, built toward reusable 2D and 3D visualization.
-- 🧩 **[Naar](https://github.com/SupernovifieD/naar)**: A repo-aware CLI for discovering, evaluating, and safely installing AI agent skills.
 - 📖 **[Learn Cpp](https://github.com/SupernovifieD/learn-cpp-for-free)**: A free, open-source book for learning modern C++ from first principles.
+- 🗺️ **[Karmania](https://github.com/SupernovifieD/karmania-map-viewer)**: An open-source engine for importing and validating geoscience map data, built toward reusable 2D and 3D visualization.
+- 🌍 **[EarthCatalogue](https://ec.yasinghasemi.com)**: A curated public directory for discovering geoscience datasets, with read-only MCP access.
+- 🧩 **[Naar](https://github.com/SupernovifieD/naar)**: A repo-aware CLI for discovering, evaluating, and safely installing AI agent skills.
 - ⛏️ **[MPM MVP](https://github.com/SupernovifieD/mineral-prospectivity-mvp)**: An MVP for mineral prospectivity mapping using machine learning.
 - 📡 **[Net Radar](https://github.com/SupernovifieD/netradar)**: A lightweight, free and open-source web diagnostics monitoring dashboard.
 - 🎓 **[BluLexi](https://blulexi.com)**: AI-assisted academic English test prep.
